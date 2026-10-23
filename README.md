@@ -1,5 +1,15 @@
 ﻿# Quantum Machine Learning for Cybersecurity
 
+## Anggota Kelompok
+
+| Nama | NRP |
+| --- | --- |
+| Benjamin | 502723 |
+| Abhinaya | 502723 |
+| Ricko | 502723 |
+| Rizqi | 502723 |
+| Gandhi | 502723 |
+
 Repositori pembelajaran dan eksperimen **Quantum Machine Learning (QML)** untuk keamanan siber. Materi di dalamnya membangun pemahaman secara bertahap: mulai dari konsep dasar QML dan machine learning klasik, encoding data ke sirkuit kuantum, quantum kernel methods, hingga Variational Quantum Classifiers (VQC) dan Quantum Neural Networks (QNN).
 
 > Proyek ini bersifat eksperimental dan edukasional. Quantum computing saat ini masih memiliki keterbatasan pada jumlah qubit, noise, kedalaman sirkuit, dan waktu eksekusi. Hasil notebook tidak dimaksudkan sebagai bukti keunggulan quantum ML atas model klasik secara umum.
@@ -127,4 +137,3 @@ Untuk mendapatkan hasil yang lebih konsisten:
 ## Lisensi dan atribusi
 
 Periksa lisensi setiap dataset, notebook, gambar, dan materi pembelajaran pihak ketiga sebelum mendistribusikan ulang repositori. Tambahkan file `LICENSE` apabila proyek ini akan dipublikasikan dengan lisensi tertentu.
-
